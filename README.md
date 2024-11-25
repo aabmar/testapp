@@ -15,6 +15,9 @@ npm run web
 
 I work on both Mac and Windows, and the warning is the same. I have used Expo 51 and now 52, and the warning is the same.
 
+Note that the project I have committed here is totally unchanged from what "create-expo-app" has generated, expect form this README.md file.
+The changes to the README.md file is not the cause of the deprecation warnings.
+
 
 Pointer Events Warning
 ======================
